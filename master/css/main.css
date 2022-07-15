@@ -8,10 +8,12 @@
 
 .profile-text{
     padding: 180px;
+    margin-top: 10px;
 }
 
 .profile-skill{
     padding: 10px;
+    margin: 10px;
 }
 
 .img-border{
