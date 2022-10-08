@@ -6,6 +6,10 @@
     padding: 0 16px;
 }
 
+.frame{
+    height: 500px;
+}
+
 .profile-text{
     padding: 180px;
     margin-top: 10px;
